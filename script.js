@@ -19,19 +19,19 @@ const perguntas = [
         alternativas: [
             {
                 texto: "11",
-                afirmacao: "1:Errada,"
+                afirmacao: "1°:Errada,"
             },
             {
                 texto: "12",
-                afirmacao: "1:Correta"
+                afirmacao: "1°:Correta,"
             },
             {
                 texto: "13",
-                afirmacao: "1:Errada,"
+                afirmacao: "1°:Errada,"
             },
             {
                 texto: "14",
-                afirmacao: "1:Errada,"
+                afirmacao: "1°:Errada,"
             },
         ]
     },
@@ -40,19 +40,19 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Atena",
-                afirmacao: "2:Errada,"
+                afirmacao: "2°:Errada,"
             },
             {
                 texto: "Hades",
-                afirmacao: "2:Errada,"
+                afirmacao: "2°:Errada,"
             },
             {
                 texto: "Zeus",
-                afirmacao: "2:Correta,"
+                afirmacao: "2°:Correta,"
             },
             {
                 texto: "Hélios",
-                afirmacao: "2:Errada,"
+                afirmacao: "2°:Errada,"
             },
         ]
     },
@@ -61,19 +61,19 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Cronos",
-                afirmacao: "3:Errada,"
+                afirmacao: "3°:Errada,"
             },
             {
-                texto: "Prometheus,",
-                afirmacao: "3:Correta,"
+                texto: "Prometheus",
+                afirmacao: "3°:Correta,"
             },
             {
                 texto: "Gaia",
-                afirmacao: "3:Errada,"
+                afirmacao: "3°:Errada,"
             },
             {
                 texto: "Atlas",
-                afirmacao: "3:Errada,"
+                afirmacao: "3°:Errada,"
             },
         ],
     },
@@ -82,19 +82,19 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Hefesto",
-                afirmacao: "4:Correta,"
+                afirmacao: "4°:Correta,"
             },
             {
                 texto: "Thânatos",
-                afirmacao: "4:Errada,"
+                afirmacao: "4°:Errada,"
             },
             {
                 texto: "Hércules",
-                afirmacao: "4:Errada,"
+                afirmacao: "4°:Errada,"
             },
             {
                 texto: "Deméter",
-                afirmacao: "4:Errada,"
+                afirmacao: "4°:Errada,"
             },
         ]
     },
@@ -103,19 +103,19 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Minotauro",
-                afirmacao: "5:Errada."
+                afirmacao: "5°:Errada."
             },
             {
                 texto: "Centáuro",
-                afirmacao: "5:Errada,"
+                afirmacao: "5°:Errada."
             },
             {
                 texto: "Sátiros.",
-                afirmacao: "5:Correta,"
+                afirmacao: "5°:Correta."
             },
             {
                 texto: "Quiméra",
-                afirmacao: "5:Errada,"
+                afirmacao: "5°:Errada."
             },
         ]
     },
